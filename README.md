@@ -4,11 +4,11 @@
 - 📫 Email: 015042005minh@gmail.com
 
 Past projects:
-- Compiled and organized data for a helper app on a card game game -> see repo qpProject.
+- Compiled and organized data for a helper app on a card game-> see repo qpProject.
 - Found backdoors to some services (like musixmatch) and helped build remakes of popular apps
 - Built several discord bots that are now currntly down due to hosting issues
 - Built some demos in pure html/css/js -> see repo projectsHistory
-- Built a game server based on socket with postgres integration -> see repo battleshipv2
+- Built a game server based on socket with postgres SQL integration -> see repo battleshipv2
 
 Currently looking for remote working job oportunities
 
